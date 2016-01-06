@@ -1,0 +1,7 @@
+workspace ‘FrameworkDemo’
+xcodeproj ‘FrameworkDemo.xcodeproj'
+
+link_with 'FrameworkDemoTest'
+
+#install pop for animation
+pod 'pop'
